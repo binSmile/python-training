@@ -5,6 +5,6 @@ https://yandex.ru/yaintern/algorithm-training_1
 
 https://contest.yandex.ru/contest/27663/enter/
 
-✅	T1 Lesson 3 Problem A. Количество различных чисел.py
-✅	T1 Lesson 3 Problem B. Пересечение множеств.py
-❌	T1 Lesson 3 Problem C. Кубики.py
+- ✅	T1 Lesson 3 Problem A. Количество различных чисел.py
+- ✅	T1 Lesson 3 Problem B. Пересечение множеств.py
+- ❌	T1 Lesson 3 Problem C. Кубики.py
