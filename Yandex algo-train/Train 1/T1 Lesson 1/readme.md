@@ -1,4 +1,4 @@
-# Yandex. Algotithm training 1.0, 
+# Yandex. Algotithm training 1.0
 https://yandex.ru/yaintern/algorithm-training_1
 
 ## Lesson 1: complexity, testing, edge cases
