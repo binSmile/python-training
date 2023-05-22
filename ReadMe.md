@@ -1,4 +1,3 @@
 # Python training
 
-This repo is my training in Python.
-Main part it is solutions of yandex algo-training.
+This repository is dedicated to my Python training. The main part consists of solutions to Yandex algorithmic training problems.
