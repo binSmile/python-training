@@ -4,17 +4,17 @@
 #
 # Asymptotic
 
-def my_func(a, b):
+def solution(a, b):
     return a + b
 
 
-assert my_func(100, 200) == 300
+assert solution(100, 200) == 300
 
 
 def main():
     a = int(input())
     b = int(input())
-    print(my_func(a, b))
+    print(solution(a, b))
 
 
 if __name__ == '__main__':
