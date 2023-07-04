@@ -1,10 +1,13 @@
 # Test case for WhoIsBlogger (WIB)
 source: https://hh.ru/vacancy/82346986
+- **sql_test.ipynb** contains the solution for the test case.
+- **credentials_example.json** contains the parameters and credentials for the PostgreSQL connection.
 
+
+## Test case description
 To apply for the job, we kindly ask you to solve the following test task.
 
 You have an SQL database with the following tables:
-
 - Users(userId, age)
 - Purchases(purchaseId, userId, itemId, date)
 - Items(itemId, price).
@@ -12,7 +15,6 @@ You have an SQL database with the following tables:
 Write SQL queries to calculate the following metrics:
 
 A) The average monthly spending for:
-
 - Users aged 18 to 25 (inclusive)
 - Users aged 26 to 35 (inclusive)
 
