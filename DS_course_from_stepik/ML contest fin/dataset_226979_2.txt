@@ -1,0 +1,2 @@
+https://stepik.org/media/attachments/course/4852/events_data_test.csv
+https://stepik.org/media/attachments/course/4852/submission_data_test.csv
