@@ -6,4 +6,4 @@ Course by Anatoly Karpov and Bioinformatics Institute
 
 My certificate: https://stepik.org/cert/1931728
 
-![https://stepik.org/certificate/7de6cb058802850850ff0ed2cc582d4c937013b9.png]
+![My Certificate](https://stepik.org/certificate/7de6cb058802850850ff0ed2cc582d4c937013b9.png?resolution=medium)
